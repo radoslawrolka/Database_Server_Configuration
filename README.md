@@ -7,3 +7,13 @@ Documentation in pdf is available in ```/documentation/Documentation.pdf``` or o
 
 ## Configuration
 We've designed tables for storing course, student, and instructor data, along with views for customized data access. Triggers enforce data integrity, while stored procedures handle complex business logic. Indexes optimize query performance, and grants ensure proper security and access control.
+
+## Source Code
+All files are divided into six categories:
+- tables
+- views
+- procedures
+- triggers
+- indexes
+- grants
+  
