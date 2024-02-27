@@ -6,7 +6,7 @@ Documentation in pdf is available in ```/documentation/Documentation.pdf``` or o
 [documentaton online](https://radoslawrolka.github.io/Database_Server_Configuration/documentation/index.html) ].
 
 ## Configuration
-We've designed tables for storing course, student, and instructor data, along with views for customized data access. Triggers enforce data integrity, while stored procedures handle complex business logic. Indexes optimize query performance, and grants ensure proper security and access control.
+We've designed tables for storing course, student, and instructor data, along with views for customized data access. Triggers enforce data integrity, while stored procedures handle complex business logic, incorporating transactions to maintain data consistency. Indexes optimize query performance, and grants ensure proper security and access control.
 
 ## Source Code
 All files are divided into six categories:
